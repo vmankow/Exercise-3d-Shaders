@@ -1,4 +1,4 @@
-# Exercise-03d-Shaders
+# Exercise-03d-Shaders & Project 03- May 2025
 
 Exercise for MSCH-C220
 
@@ -7,7 +7,13 @@ The final step adding "juicy" features to a simple brick-breaker game.
 
 ## Implementation
 
-Built using Godot 2022.3.45f
+-3 levels
+- different backgrounds
+- different paddles for each level
+    - different eyes for each
+- paddle mouth
+- background music for start scene & each level
+- ball speed increase level 2
 
 
 ## References
@@ -21,7 +27,7 @@ Built using Godot 2022.3.45f
 
 ## Future Development
 
-Power-ups, etc.
+Power-ups, different color blocks on each level, different sound effects for bounce. 
 
 ## Created by 
 Violet Mankowski
