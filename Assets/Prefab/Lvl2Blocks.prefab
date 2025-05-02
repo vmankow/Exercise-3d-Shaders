@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 7943795971225011171}
   - component: {fileID: 1817148749863409629}
   m_Layer: 0
-  m_Name: BreakoutBlock
+  m_Name: Lvl2Blocks
   m_TagString: block
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -150,7 +150,7 @@ MonoBehaviour:
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[System.Int32,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"blockType","value":{"$content":0,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"2colors","value":{"$content":[{"r":0.1829064,"g":1.0,"b":0.0,"a":0.0},{"r":1.0,"g":0.3113207,"b":0.7920457,"a":0.0},{"r":1.0,"g":0.6122449,"b":0.0,"a":0.0},{"r":0.0,"g":0.6842108,"b":1.0,"a":0.0}],"$type":"System.Collections.Generic.List`1[[UnityEngine.Color,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"2colors","value":{"$content":[{"r":0.5647059,"g":0.07058824,"b":0.459134,"a":0.0},{"r":0.1082235,"g":0.5403042,"b":0.6037736,"a":0.0},{"r":0.9600605,"g":0.7035717,"b":0.9685534,"a":0.0},{"r":0.0,"g":0.9803922,"b":0.8777639,"a":0.0}],"$type":"System.Collections.Generic.List`1[[UnityEngine.Color,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[UnityEngine.Color,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
